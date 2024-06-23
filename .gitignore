@@ -1,0 +1,9 @@
+# Ignore virtual environment
+/home/ubuntu/env/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore specific socket file
+blog.sock
+
