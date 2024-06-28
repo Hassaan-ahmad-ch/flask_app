@@ -1,5 +1,4 @@
-# Ignore the .gitignore file itself
-.gitignore
+
 # Ignore virtual environment
 /home/ubuntu/env/
 
