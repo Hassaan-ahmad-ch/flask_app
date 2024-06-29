@@ -8,3 +8,6 @@ __pycache__/
 # Ignore specific socket file
 blog.sock
 
+# gunicorn log files
+gunicorn_access.log
+gunicorn_error.log
